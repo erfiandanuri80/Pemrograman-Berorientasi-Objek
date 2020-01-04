@@ -1,0 +1,21 @@
+judul= List Hewan
+tag= ['hewan', 'anjing', 'kucing', 'ayam']
+isi= nama hewan :
+1. Anjing
+2. Kucing
+3. Ayam
+tanggal= 02,12,2019
+=====
+judul= List Tumbuhan
+tag= ['Tumbuhan', 'padi', 'eceng gondok', 'mawar']
+isi= nama tumbuhan :
+1. Eceng gondok
+2. padi
+3. mawar
+tanggal= 10,10,2019
+=====
+judul= List Setan
+tag= ['setan', 'pocong', 'kuntilanak', 'genderuwo']
+isi= List Hantu
+tanggal= 11,11,2019
+=====
